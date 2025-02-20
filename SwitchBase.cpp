@@ -1,5 +1,8 @@
 #include <iostream>
-
+#include <cmath>
+#include "globalVar.h"
+char asciiOperator;
+int operador;
 void base(){
     int bOrigin;
     int bEnd;
